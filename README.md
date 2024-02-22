@@ -14,4 +14,6 @@ No se podra utilizar contadores o timers de librerias de C# o externas.
 
 ## Ejemplo:
 
-![Juego!](/juego_ferrari.mp4 "Juego Ferrari")
+
+https://github.com/mrampi/Parcila-Labo-II/assets/112177351/335e6848-23d2-4d88-bbb5-7919ad1a90f8
+
