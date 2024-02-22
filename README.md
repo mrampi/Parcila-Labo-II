@@ -9,8 +9,8 @@ La aplicación tendrá tres botones:
 **Frenar:** Detiene la cuenta progresiva y la animación del movimiento de los objetos. Para iniciar el movimiento nuevamente apretar **Empezar**.  
 
 ## Requisitos:
-Se deberan utilizar delegados, eventos e hilos y respetar  las buenas practicas de la POO.
-No se podra utilizar contadores o timers de librerias de C# o externas.
+Se deberan utilizar delegados, eventos e hilos y respetar  las buenas practicas de la POO.  
+***No se podran utilizar contadores o timers de librerias de C# o externas.***
 
 ## Ejemplo:
 
